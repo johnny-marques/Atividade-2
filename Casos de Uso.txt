@@ -1,0 +1,33 @@
+CONFIGURAR ELEVADORES
+O Programador inclui os dados do edifício: a quantidade de andares, quantidade de elevadores por andar e os andares atendidos por cada elevador.
+
+GERENCIAR USUÁRIO
+O mantenedor faz a inclusão, alteração e exclusão de usuários do sistema.
+Os dados do usuário são nome, andar preferencial e telefone de contato.
+
+EMISSOR DE CARTÕES
+O mantenedor emite cartões dos usuários do sistema.
+Cada cartão possui uma data de validade determinada pelo mantenedor.
+
+DESATIVAR ELEVADOR
+O mantenedor informa que determinado elevador esta inativo para manutenção.
+Ele também informa quando o elevador volta para o estado ativo.
+
+DADOS DE USUÁRIO
+Banco de dados do usuário.
+
+CHAMAR ELEVADOR
+O usuário aproxima-se do painel de acesso e insere seu cartão para que o sistema possa indentificá-lo. Deves-se verificar a validade do cartão.
+Então após identificar o usuário exibi-se a sugestão de andar e após o usuário confirma o andar o sistema o direciona a um dos elevadores de maneira que ele chegue mais rápido ao andar desejado.
+
+CONSULTAR ÚLTIMO ANDAR
+O administrador consulta o último andar para o qual foi direcionado um usuário.
+O administrador deve entrar com o nome do usuário, então o sistema retoma o andar, a data, a hora da requisição e celular de contato do usuário.
+
+CONSULTAR VIAGENS DOS ELEVADORES
+O administrador consulta a quantidade de viagens realizadas pelos elevadores por um dado período, agrupadas por elevador.
+
+CONSULTAR VIAGENS DE USUÁRIO
+O administrador consulta a quantidade de viagens realizadas por um dado usuário num determinado período de tempo.
+
+
